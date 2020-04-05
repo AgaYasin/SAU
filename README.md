@@ -1,2 +1,1 @@
-# SAU
-Burada  kendimi ve şehrimi tanıtacağım bir web sitesinin projesi yer alacak.Web sitesini HTML,CSS ve Javascript kullanarak hazırlayacağım. Projede ilerledikçe burada da gerekli güncellemeleri yapacağım.
+Burada kendimi ve şehrimi (Sakarya) tanıtacağım bir web sitesinin projesi olacak. Web sitesini HTML,CSS ve Javascript kullanarak hazırlayacağım. Web sitesinde kendimle ilgili ismim, yaşım, hobilerim ve özgeçmişim gibi genel bilgiler ve bunun yanında yaşadığım şehirle ilgili doğal, tarihi güzellikler ve şehrimin takımıyla ilgili bilgiler olacak.  

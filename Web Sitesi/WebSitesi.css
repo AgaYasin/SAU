@@ -1,0 +1,63 @@
+@charset "utf-8";
+html{
+    background: url(https://0.s3.envato.com/files/6525921/images/background/custom.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+li{
+     display:inline-block;
+     margin-left: 150px;
+     margin-top: 10px;
+   }
+a:link,a:visited{
+    color:cornsilk;
+    text-decoration: none;
+}
+a:hover{
+    background-color:antiquewhite;
+    color: rgb(80,80,80);
+}
+a{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+div{
+    margin-top: 310px;
+    text-align: center;
+    font-size: 30px;
+    color:cornsilk;
+}
+h3{
+     margin-top: 25px;
+    text-align: center;
+    color:cornsilk;
+}
+p{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    color:cornsilk;
+}
+img {
+  display:table;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
